@@ -1,6 +1,10 @@
 {
     "name": "my-mono-repo",
     "private": true,
+    "workspaces": [
+        "apps/*",
+        "packages/*"
+    ],
     "dependencies": {
         "fs": "^0.0.1-security",
         "path": "^0.12.7"
