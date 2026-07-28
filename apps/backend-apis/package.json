@@ -1,0 +1,19 @@
+{
+	"name": "backend-apis",
+	"version": "1.0.0",
+	"description": "mono repo testing",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js"
+	},
+	"keywords": [
+		"mono",
+		"repo"
+	],
+	"dependencies": {
+		"@my-monorepo/logger": "1.0.0"
+	},
+	"author": "ashwath",
+	"license": "ISC"
+}
