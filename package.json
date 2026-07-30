@@ -3,7 +3,8 @@
     "private": true,
     "workspaces": [
         "apps/*",
-        "packages/*"
+        "packages/*",
+        "test-folder/*"
     ],
     "dependencies": {
         "fs": "^0.0.1-security",

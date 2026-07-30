@@ -1,5 +1,5 @@
 {
-	"name": "backend-apis",
+	"name": "backend-apiss",
 	"version": "1.0.0",
 	"description": "mono repo testing",
 	"main": "server.js",
