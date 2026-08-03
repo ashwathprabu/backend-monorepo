@@ -1,6 +1,6 @@
 
-```
-getting this issue-2$ ln -s ./packages/logger/index.js ./apps/backend-apis/logger/index.js
+```bash
+aaaa-2$ ln -s ./packages/logger/index.js ./apps/backend-apis/logger/index.js
 ln: failed to create symbolic link './apps/backend-apis/logger/index.js': No such file or directory
 bumblebee:~/Documents/Projects/mono-repos/monorepo-2$ ls
 apps  packages
