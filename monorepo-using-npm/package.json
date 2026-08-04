@@ -1,0 +1,19 @@
+{
+  "name": "@ashwath/logger",
+  "version": "1.0.0",
+  "description": "when i use npm workspace how usually teams install internal packages",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    ""
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashwath",
+  "license": "ISC",
+  "dependencies": {
+    "@ashwath/logger": "^1.0.0"
+  }
+}
