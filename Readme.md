@@ -1,0 +1,2 @@
+https://medium.com/@hari.r.nallan/some-secrets-of-package-json-and-package-lock-json-19311fe3c947
+https://medium.com/@haricane8133/nodes-module-resolution-and-the-perils-of-multiple-node-modules-with-webpack-61b507e5602e
